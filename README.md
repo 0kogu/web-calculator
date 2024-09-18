@@ -2,7 +2,7 @@
 
 ## Overview
 
-This **Calculator Web App** is a simple, user-friendly calculator that performs basic operations (addition, subtraction, multiplication, division). It is built using **Node.js** and follows the **MVC (Model-View-Controller)** design pattern. The user can input two numbers, select an operation, and the result is displayed instantly.
+This **Calculator Web App** is a simple calculator that performs basic operations (addition, subtraction, multiplication, division). It is built using **Node.js** and follows the **MVC (Model-View-Controller)** design pattern. The user can input two numbers, select an operation, and the result is displayed instantly.
 
 ## Features
 
@@ -30,5 +30,5 @@ This **Calculator Web App** is a simple, user-friendly calculator that performs 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/0kogu/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/0kogu/web-calculator.git
+   cd web-calculator
